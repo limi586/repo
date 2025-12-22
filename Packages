@@ -14153,6 +14153,29 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/TwitchAdBlock/icon.png
 Name: TwitchAdBlock
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/TwitchAdBlock/js.json
 
+Package: com.limi586.ccless
+Version: 2.0.5-5
+Architecture: iphoneos-arm64e
+Maintainer: 妖刀
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000),com.opa334.ccsupport
+Conflicts: com.skypain.cclocation, com.skypain.ccsettrings, com.skypain.ccrespring, com.sop.cpumagicrootless, netskao.ccbadgeclear-rootless, com.mtac.uptime, netskao.alipayscan-rootless, netskao.wechatscan-rootless, com.skypain.ccvpn, netskao.ccswitchdata-rootless, netskao.ccsim-rootless, netskao.tinyccmodules-rootless, netskao.cccellularrate-rootless, netskao.quantumultxlauncher-rootless
+Filename: ./debs/iphoneos-arm64e/com.limi586.ccless_2.0.5-5_iphoneos-arm64e.deb
+Size: 181702
+MD5sum: d5dc3c158f06f0952c1f8da5169f6ace
+SHA1: 23cac5a7352bbbe97e580882ee8b4039b46b4e6b
+SHA256: 9832073077083854b2245d3b910b4e537bc21031401575c5ddcfa4c0969a7e6a
+Section: Tweaks
+Description: 集合的控制中心模块
+ * CCVPN
+ * CC截图
+ * 蜂窝切换
+ * 4G/5G切换
+Author: 妖刀
+Icon: https://limi586.Github.io/sileodepiction/CCLess/icon.png
+Name: CCLess 控制中心多模块
+Sileodepiction: https://limi586.Github.io/sileodepiction/CCLess/js.json
+
 Package: com.liuf.jpyj
 Version: 0.0.1
 Architecture: iphoneos-arm64
