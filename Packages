@@ -24938,14 +24938,14 @@ Package: com.xianyu.noad
 Version: 1.5.5
 Architecture: iphoneos-arm64e
 Maintainer: ylr
-Installed-Size: 152
+Installed-Size: 304
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate
 Filename: ./debs/iphoneos-arm64e/com.xianyu.noad_1.5.5_iphoneos-arm64e.deb
-Size: 5238
-MD5sum: 118425f4a38e3c2aa814fceb64816e4e
-SHA1: c1b1753de78501168bedcbee31a6f98e009f0130
-SHA256: 7bf55b1e9185ab977fea7bac356ce8d7bb03e85edabac6d945ddc634ed7bf72d
+Size: 74896
+MD5sum: 2002cc2559323e4497b9a59abad77378
+SHA1: e80e8783be5fa802be7cb900bc9efed8d5dd73dc
+SHA256: cc46ecce18e42a83d10c081080f17d35cdfc8172261f50cea26a95f3b935ba4d
 Section: 应用破解
 Description: 闲鱼去广告
  * 闲鱼 去开屏广告
