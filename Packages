@@ -10722,6 +10722,28 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/Appdata/icon.png
 Name: AppData
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Appdata/js.json
 
+Package: com.netskao.appdatas
+Version: 1.8.8
+Architecture: iphoneos-arm64e
+Maintainer: Netskao
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Conflicts: com.netskao.appdata, byg.iosios.net.appdata-rootless, com.dao.appdata
+Filename: ./debs/iphoneos-arm64e/com.netskao.appdatas_1.8.8_iphoneos-arm64e.deb
+Size: 172528
+MD5sum: 95a5dfe3d03f308d68eb4b83752d7d06
+SHA1: 1ff0948671c96f6ab0bb68ab9083361e5635e5eb
+SHA256: b6545cf1a5dedbf099738e0fa0627294372275836e30ae93102df56e18f7935a
+Section: Netskao-Tweaks
+Description: 桌面图标增强插件
+ * 由 Netskao 汉化修改
+ * 桌面图标上滑或下滑或3D长按菜单选择即可唤出图标
+ * View & Manage Applications Data from your Home Screen
+Author: Fouad Raheb
+Icon: https://TrollStoreX.Github.io/sileodepiction/Appdata/icon.png
+Name: AppData
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Appdata/js.json
+
 Package: com.netskao.awemealwaysshowtimes
 Version: 1.1-1
 Architecture: iphoneos-arm64
